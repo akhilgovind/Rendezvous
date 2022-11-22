@@ -1,0 +1,670 @@
+
+/*css3 xpertcube 2015*/
+
+/* (320x480) iPhone (Original, 3G, 3GS) */
+@media only screen and (min-width: 320px) and (max-width: 980px) {
+/* insert styles here */
+.logo_left {
+    width: 45%;
+    top: 0;
+}
+.service_inn ul {
+    padding-bottom: 10%;
+}
+.service_line_right a {
+    font-size: 14px;
+}
+.service_line_left_inner {
+    position: relative;
+    width: 90%;
+}
+.service_line_left_inner_top .fa {
+    font-size: 38px;
+    padding: 0 2%;
+}
+.service_line_right h1 {
+    font-size: 38px;
+}
+.slider_text h1 {
+    font-size: 26px;
+    line-height: 26px;
+}
+.slider_text h2 {
+    font-size: 70px;
+    line-height: 100px;
+}
+.menu_right_left ul li {
+    margin: 14px 0 0 0;
+}
+.menu_right_left ul li p {
+	color:#FFF;
+}
+.slides-pagination {
+    display: none !important; 
+}
+.about_content_inner_left {
+    width: 100%;
+}
+.about_content_inner_right {
+    width: 100%;
+}
+.about_content_inner_left_inner {
+    width: 94%;
+    position: relative;
+    top: 0 !important; 
+    left: 0;
+}
+.about_content_inner {
+    width: 100%;
+}
+.about_content_inner_left_inner_left h1 {
+    font-size: 50px!important; 
+}
+.about_content_inner_left_inner_left {
+    top: 15em!important; 
+    left: -7em!important; 
+}
+.room_left h1 {
+    font-size:44px!important; 
+}
+.room_left {
+    top: 15em!important; 
+    left: -6em!important; 
+}
+.about_content_inner_left_inner_right p {
+    text-align: justify;
+	padding: 10% 5% 5% 0!important; 
+	line-height:30px;
+}
+.about_content_inner_left_inner_right h1 span {
+    font-size: 54px;
+}
+.review_inner_right {
+    width: 100%;
+}
+.review_inner2_right {
+    width: 100%;
+}
+.review_inner2_left {
+    width: 100%;
+}
+.review_inner_left {
+    width: 95%;
+}
+.review_inner2_left p {
+    padding: 8% 5% 8% 0;
+}
+.review_inner_left {
+    top: 0em !important;
+}
+.review_inner2_left {
+    top: 0em !important;
+}
+.footer_social {
+	display:none;
+}
+.footer_link {
+	display:none;
+}
+.footer_location {
+	width:100%;
+    text-align: center;
+     margin: 5% 0;
+}
+.footer_contact {
+	width:100%;
+    text-align: center;
+	margin: 5% 0;
+}
+.footer_end_left p {
+    font-size: 14px;
+}
+.footer_end_left {
+   width:100%;
+   text-align:center;
+}
+.footer_end_right {
+   width:100%;
+   text-align:center;
+}
+.footer_end_right p {
+    font-size: 14px;
+}
+.footer_end_right p a {
+    font-size: 14px;
+}
+.social ul li a {
+    color: #eaeaea;
+}
+.index_about4_inner_right {
+    position: relative;
+    width: 100%;
+    top: 0;
+}
+.index_about4_inner_left {
+    width: 100%;
+}
+.index_about4_inner_left h1 span {
+    font-size: 56px;
+}
+.index_about4_inner_left h1 {
+    font-size: 30px;
+    line-height: 45px;
+}
+.index_about4_inner_left p {
+    text-align: justify;
+}
+.menu_right_left ul li p span {
+    display: none;
+}
+.about_banner_cntnt h1 {
+    padding: 30% 0 5% 0;
+	font-size: 30px;
+    line-height: 50px;
+}
+.about_banner_cntnt h1 span {
+    font-size: 46px;
+}
+.index_about4_inner_left h2::after {
+    display:none;
+}
+.gallery-item {
+    width:100%;
+    padding-bottom:52%;
+}
+.contact_inn_left {
+    width: 100%;
+}
+.contact_inn_right {
+width:100%;	
+}
+.contact_inn_left_inner {
+    width:90%;
+    top:0;
+    left:0;
+}
+.contact_inn {
+	width:90%;
+}
+.contact_us h1 {
+	display:none;
+}
+.contact_us_banner_main {
+  padding: 30% 0 5%;
+}
+.about_us_banner_main {
+    padding: 30% 0 5%;
+}
+.contact_left h1 {
+    font-size: 40px;
+}
+.contact_left h1 span {
+    font-size: 15px;
+}
+.service_list_inner ul li {
+    width: 100%;
+    margin: 0;
+}
+.service_line_left {
+    width: 100%;
+}
+.service_line_right {
+    width: 90%;
+}
+.overlay ul li a {
+    font-size: 26px !important;
+}
+.dtail_inn_left {
+    position: relative;
+    top: 0;
+    width: 95%;
+}
+.dtail_inn_right {
+    width: 100%;
+}
+.dtail_inn_left_right {
+    position: relative;
+    width:100%;
+    right: 0;
+    height: auto;
+}
+.dtail_inn_left_right_btm {
+    margin: 0 !important;
+}
+.dtail_inn_left_right_top {
+    width:48%;
+	float:left;
+	padding: 5% 0;
+}
+.dtail_inn_left_right_btm {
+    width:48%;
+	float:right;
+	padding: 5% 0;
+}
+.dtail_inn_left_right_btm h1 {
+    line-height: 41px;
+}
+.dtail_inn_left_btm h1 span {
+    font-size: 36px;
+}
+dtail_inn_left_btm h1 {
+    font-size: 30px;
+}
+.right_input2 {
+    width: 100%;
+}
+.left_input2 {
+    width: 100%;
+}
+.cntct_input_left_right2 {
+    margin: 0 auto 0;
+}
+.send_btn2 {
+    bottom: -5em;
+}
+.popup .closeBtn {
+    top: 8px;
+}
+}
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+/* insert styles here */
+ .menu_right_left ul li p {
+    font-size: 14px!important;
+}
+.social ul li a {
+    font-size: 12px!important;
+}
+.social {
+    right: -12em!important;
+}
+.about_content_inner_left_inner_right h1 span {
+    font-size: 44px!important;
+}
+.about_content_inner_left_inner_left h1 {
+    font-size: 42px!important;
+}
+.about_content_inner_left_inner_left {
+    left: -6em!important;
+}
+.room_left h1 {
+    font-size: 37px!important;
+}
+.our_service_inn_btm h1 span {
+    font-size: 50px;
+    line-height: 50px;
+}
+.about_banner_cntnt h1 span {
+    font-size: 50px!important;
+}
+.index_about4_inner_left h1 {
+    font-size: 26px;
+}
+.overlay ul li a {
+    font-size: 24px !important;
+}
+}
+
+/* (320x480) Smartphone, Portrait */
+@media only screen and (width: 320px) and (orientation: portrait) {
+/* insert styles here */
+	
+}
+
+/* (320x480) Smartphone, Landscape */
+@media only screen and (width: 480px) and (orientation: landscape) {
+
+}
+
+/* (480x800) Android */
+@media only screen and (min-width: 480px) and (max-width: 800px) {
+/* insert styles here */
+.social ul li a {
+    font-size: 10px !important;
+	color:#ccc;
+}
+.social {
+    right: -12em;
+}
+.about_content_inner_left_inner_left {
+    top: 3em!important;
+    left: -11em!important;
+}
+.room_left {
+    left: -11em!important;
+}
+.gallery-item {
+    width: 50%;
+    padding-bottom: 30%;
+}
+
+}
+/* (640x960) iPhone 4 & 4S */
+@media only screen and (max-width:700px) {
+/* insert styles here */
+
+
+}
+@media only screen and (min-width: 375px) and (max-width: 990px) {
+/* insert styles here */
+}
+
+/* (720x1280) Galaxy Nexus, WXGA */
+@media only screen and (min-width: 720px) and (max-width: 1280px) {
+/* insert styles here */
+
+}
+
+/* (720x1280) Galaxy Nexus, Landscape */
+@media only screen and (min-width: 720px) and (max-width: 1280px) and (orientation: landscape) {
+/* insert styles here */
+
+}
+
+/* (1024x768) iPad 1 & 2, XGA */
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+/* insert styles here */
+.about_content_inner_left_inner_left {
+    top: 3em!important;
+    left: -15em!important;
+}
+.room_left {
+    left: -15em!important;
+}
+}
+
+/* (768x1024) iPad 1 & 2, Portrait */
+@media only screen and (min-width: 768px) and (max-width: 1024px) and (orientation: portrait) {
+/* insert styles here */
+
+}
+
+/* (1024x768) iPad 1 & 2, Landscape */
+@media only screen and (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+/* insert styles here */
+
+}
+
+/* (2048x1536) iPad 3 */
+@media only screen and (min-width: 1536px) and (max-width: 2048px) {
+/* insert styles here */
+
+}
+
+/* (1280x720) Galaxy Note 2, WXGA */
+@media only screen and (min-width: 768px) and (max-width: 1366px) {
+
+
+}
+
+/* (1366x768) WXGA Display */
+@media screen and (max-width: 1400px) {
+
+/* insert styles here */
+}
+
+/* (1280x1024) SXGA Display */
+@media screen and (max-width: 1280px)and (max-width:1399px) {
+/* insert styles here */
+.menu_right_left ul li p {
+    font-size: 16px;
+}
+.social ul li a {
+    font-size: 15px;
+}
+.about_content_inner_left_inner_left h1 {
+    font-size: 90px;
+}
+.about_content_inner_left_inner_right h1 span {
+    font-size: 58px;
+    line-height: 35px;
+}
+.about_content_inner_left_inner_right p {
+    font-size: 15px;
+    line-height: 30px;
+}
+.about_content_inner_left_inner {
+    top: 11em;
+}
+.about_content_inner_left_inner_left {
+    top: 14em;
+    left: -12em;
+}
+.room_left h1 {
+    font-size: 90px;
+}
+.room_left {
+    top: 21em;
+	left: -17em;
+}
+.review_inner2_left {
+    top: 6em;
+}
+.review_inner_left {
+    top: 6em;
+}
+.footer_social h1 {
+    font-size: 24px;
+}
+.footer_link h1 {
+    font-size: 24px;
+}
+.footer_location h1 {
+    font-size: 24px;	
+}
+.footer_contact h1 {
+    font-size: 24px;	
+}
+.footer_social ul li a {
+    font-size: 16px;
+}
+.footer_link ul li a {
+    font-size: 16px;	
+}
+.footer_location ul li p {
+    font-size: 16px;	
+}
+.footer_contact ul li p {
+    font-size: 16px;	
+}
+.index_about4_inner_left p {
+    font-size: 14px;
+    line-height: 27px;
+}
+.index_about4_inner_left h1 {
+    padding: 2% 0;
+}
+.about_banner_cntnt h1 span {
+    font-size: 60px;
+}
+.details_down ul li p {
+    font-size: 14px;
+}
+.dtail_inn_left_btm p {
+    font-size: 14px;
+}
+.dtail_inn_left_right_btm {
+    margin: 21.5em 0 0;
+}
+.details_down {
+    padding: 1% 0;
+}
+}
+/* (1440x900) WXGA+ Display */
+@media screen and (max-width: 1440px) {
+/* insert styles here */
+
+}
+
+@media only screen and (min-width:1400px) and (max-width:1599px) {
+/* insert styles here */
+.footer_social {
+    width: 17%;
+}
+.footer_link {
+    width: 17%;
+}
+.dtail_inn_left_right_btm {
+    margin: 24em 0 0;
+}
+}
+/* (1680x1050) WSXGA+ Display */
+@media screen and (max-width: 1580px) {
+/* insert styles here */
+
+}
+
+/* (1920x1080) Full HD Display */
+@media screen and (max-width: 1920px) {
+/* insert styles here */
+}
+@media screen and (max-width:2018px) {
+/* insert styles here */
+
+}
+
+/* (1600x900) HD+ Display */
+@media only screen and (min-width:1604px) and (max-width:1900px) {
+/* insert styles here */
+
+
+}
+
+@media only screen and (min-width: 1025px) and (max-width: 1270px) {
+/* insert styles here */
+.menu_right_left ul li p {
+    font-size: 14px;
+}
+.social ul li a {
+    font-size: 13px;
+}
+.social {
+    right: -14em;
+}
+.slider_text h2 {
+    font-size: 120px;
+    line-height: 130px;
+}
+.slider_text h1 {
+    font-size:45px;
+    line-height:45px;
+}
+.about_content_inner_left_inner_left h1 {
+    font-size: 74px;
+}
+.about_content_inner_left_inner_right h1 span {
+    font-size: 48px;
+    line-height: 25px;
+}
+.about_content_inner_left_inner_right p {
+    font-size: 13px;
+    line-height: 27px;
+}
+.about_content_inner_left_inner {
+    top:8em;
+}
+.about_content_inner_left_inner_left {
+    top: 13em;
+    left: -10em;
+}
+.room_left h1 {
+    font-size: 70px;
+}
+.room_left {
+    top: 19em;
+    left: -15em;
+}
+.review_inner2_left p {
+    font-size: 13px;
+    line-height: 27px;
+}
+.review_inner_left p {
+    font-size: 13px;
+    line-height: 27px;
+}
+.footer_social h1 {
+    font-size: 24px;
+}
+.footer_link h1 {
+    font-size: 22px;
+}
+.footer_location h1 {
+    font-size: 22px;	
+}
+.footer_contact h1 {
+    font-size: 22px;	
+}
+.footer_social ul li a {
+    font-size: 14px;
+}
+.footer_link ul li a {
+    font-size: 14px;	
+}
+.footer_location ul li p {
+    font-size: 14px;	
+}
+.footer_contact ul li p {
+    font-size: 14px;	
+}
+.footer_social {
+    width: 16%;
+}
+.index_about4_inner_left p {
+    font-size: 12px;
+    line-height: 21px;
+}
+.dtail_inn_left_btm h1 {
+    font-size: 28px;
+    line-height: 28px;
+}
+.dtail_inn_left_btm h1 span {
+    font-size: 36px;
+}
+.dtail_inn_left_right_top .fa {
+    font-size: 32px;
+}
+.dtail_inn_left_right_top h1 {
+    font-size: 32px;
+    line-height: 32px;
+}
+.dtail_inn_left_right_top h1 span {
+    font-size: 16px;
+}
+.dtail_inn_left_btm p {
+    font-size: 12px;
+    line-height: 25px;
+}
+.details_down ul li p {
+    font-size: 10px;
+}
+.dtail_inn_left_right_btm h1 {
+    font-size: 30px;
+    line-height: 30px;
+}
+.dtail_inn_left_right_btm h1 span {
+    font-size: 39px;
+}
+.dtail_inn_left_right_btm {
+    margin: 20.5em 0 0;
+}
+}
+@media only screen and (min-width: 600px) and (max-width: 1280px) {
+/* insert styles here */
+
+}
+
+@media only screen and (min-width:1801px) and (max-width:2000px) {
+/* insert styles here */
+
+}
+@media only screen and (min-width: 1601px) and (max-width: 1800px) {
+
+}
+@media only screen and (min-width:2001px) and (max-width:2200px) {
+/* insert styles here */
+
+}
+@media only screen and (min-width: 981px) {
+	
+
+
+}
